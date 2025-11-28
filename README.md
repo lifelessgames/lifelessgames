@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lifelessgames
+- 👋 Hi, I’m @jadon_wolfgang
 - 👀 I’m interested in Coding, Game and Web development. AI and Algo are also topics i love to look into!
 - 🌱 I’m currently learning C , Python, Web development.
 - 💞️ I’m looking to collaborate on Game Development
